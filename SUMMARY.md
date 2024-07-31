@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Page](README.md)
-* [TTD](ttd.md)
+* [Demo](README.md)
+* [TTD](TTD.md)
+* [Test](Test.md)
